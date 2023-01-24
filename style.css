@@ -1,0 +1,15 @@
+body{
+    flex-direction: row;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+}
+div{
+    display: flex;
+    flex-direction: column;
+}
+
+.invalid-feedback{
+    text-align: center;
+}
+
